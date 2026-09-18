@@ -94,5 +94,5 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 <img width="517" height="536" alt="image" src="https://github.com/user-attachments/assets/d95032d1-498c-48dd-b0ca-864b18c743ca" />
 <img width="1760" height="537" alt="image" src="https://github.com/user-attachments/assets/edc29528-c5ee-4b7a-9d4d-c3cd6045a09c" />
 <img width="1751" height="841" alt="image" src="https://github.com/user-attachments/assets/76b104c2-d600-4de8-842e-6f1cb7c3a8e6" />
-## Result:
-The project successfully detected the face in the input image and added sunglasses automatically using OpenCV. The output image showed the sunglasses correctly positioned on the face, demonstrating the effectiveness of basic image processing techniques.
+##  Result:
+ The project successfully detected the face in the input image and added sunglasses automatically using OpenCV. The output image showed the sunglasses correctly  positioned on the face, demonstrating the effectiveness of basic image processing techniques.
